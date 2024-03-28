@@ -1,4 +1,4 @@
-import { createPost } from '@/app/actions/posts';
+import { createPost } from '@/actions/posts';
 import PostForm from '@/components/post-form';
 
 export default function PostsCreate() {

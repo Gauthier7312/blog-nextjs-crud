@@ -1,4 +1,4 @@
-import { updatePost } from '@/app/actions/posts';
+import { updatePost } from '@/actions/posts';
 import PostForm from '@/components/post-form';
 import { fetchPostById } from '@/db/queries/posts';
 
